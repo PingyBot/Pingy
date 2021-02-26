@@ -1,0 +1,23 @@
+{
+  "name": "pingy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PingyBot/Pingy.git"
+  },
+  "author": "as1de",
+  "contributors": [
+      "RobinNoort"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PingyBot/Pingy/issues"
+  },
+  "homepage": "https://github.com/PingyBot/Pingy#readme",
+  "dependencies": {}
+}
